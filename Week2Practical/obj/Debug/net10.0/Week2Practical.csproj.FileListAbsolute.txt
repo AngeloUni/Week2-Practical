@@ -1,0 +1,14 @@
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/bin/Debug/net10.0/Week2Practical
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/bin/Debug/net10.0/Week2Practical.deps.json
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/bin/Debug/net10.0/Week2Practical.runtimeconfig.json
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/bin/Debug/net10.0/Week2Practical.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/bin/Debug/net10.0/Week2Practical.pdb
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/Week2Practical.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/Week2Practical.AssemblyInfoInputs.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/Week2Practical.AssemblyInfo.cs
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/Week2Practical.csproj.CoreCompileInputs.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/Week2Practical.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/refint/Week2Practical.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/Week2Practical.pdb
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/Week2Practical.genruntimeconfig.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week2/Week2Practical/Week2Practical/Week2Practical/obj/Debug/net10.0/ref/Week2Practical.dll
